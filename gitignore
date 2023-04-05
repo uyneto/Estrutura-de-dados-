@@ -1,0 +1,4 @@
+*.pyc
+*...
+__pycacher__
+wenv
